@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwinterblanket_archive=self.webpackChunkwinterblanket_archive||[]).push([[1377],{8049:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/\uac15\ub989","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

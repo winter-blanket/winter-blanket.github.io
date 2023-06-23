@@ -1,5 +1,7 @@
-console.log('check')
-const btn_product_titles = document.querySelectorAll('.btn-product-title')
+console.log('blog')
+
+
+var btn_product_titles = document.querySelectorAll('.btn-product-title')
 
 btn_product_titles.forEach(function (btn) {
   btn.addEventListener('click', function handleProductTitleClick (event) {
@@ -15,4 +17,14 @@ btn_product_titles.forEach(function (btn) {
       )
     }
   })
+})
+
+
+
+const blog_post_cards = document.querySelectorAll('.blog-list-page article')
+
+blog_post_cards.forEach(function (card){
+
+  console.log(card)
+
 })
