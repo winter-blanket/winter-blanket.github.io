@@ -1,1 +1,1 @@
-console.log('yes!')
+console.log('script2 file works')

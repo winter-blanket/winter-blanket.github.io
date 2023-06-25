@@ -1,4 +1,4 @@
-console.log('blog')
+console.log('custom script works')
 
 
 var btn_product_titles = document.querySelectorAll('.btn-product-title')
