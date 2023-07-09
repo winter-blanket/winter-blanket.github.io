@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://winter-blanket.github.io/blog</id>
     <title>겨울이불의 아카이브 Blog</title>
     <updated>2023-06-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://winter-blanket.github.io/blog"/>
     <subtitle>겨울이불의 아카이브 Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://winter-blanket.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Design System 흉내를 위해 Figma 힐끗보기]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/understand-design-system-and-figma</id>
-        <link href="https://your-docusaurus-test-site.com/blog/understand-design-system-and-figma"/>
+        <id>https://winter-blanket.github.io/blog/understand-design-system-and-figma</id>
+        <link href="https://winter-blanket.github.io/blog/understand-design-system-and-figma"/>
         <updated>2023-06-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Design System Component 디자인을 위해 Figma Auto Layout, Property 기능을 써본 과정]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="design-system을-알아보고-싶었던-이유">Design System을 알아보고 싶었던 이유<a href="#design-system을-알아보고-싶었던-이유" class="hash-link" aria-label="Design System을 알아보고 싶었던 이유에 대한 직접 링크" title="Design System을 알아보고 싶었던 이유에 대한 직접 링크">​</a></h2><p>Design System을 처음 알게 된 계기는 첫 회사에서 새로운 제품을 런칭 준비하면서 Design System 적용을 시작했을 때였다. 프로덕트 디자인에 대한 막연한 관심이야 많았지만, 업무에 도움 될만한 배경 지식을 어떻게 쌓아야 할지에 대해선 전혀 감이 없었다. 그러던 와중에 알게 된 Design System은 첫 인상부터 굉장히 흥미로웠다. 당시 알아보았던 바로는 Design System은 <a href="https://atomicdesign.bradfrost.com/chapter-2/" target="_blank" rel="noopener noreferrer">Atomic Design Methodology</a>에 기반하고 있다. 가장 작은 디자인 요소에서 시작해서 그 요소들을 합치고 조합해나가는 과정에서 새로운 Component가 만들어진다. 디자인과 관련된 영역은 미적 감수성이 있어야만 들여다볼 수 있다고 생각했던 멋모르는 나에게 이해하기 명확하다는 점만으로도 더 자세히 들여다보고 싶다는 생각이 들었다. </p><p><full-image><img loading="lazy" src="https://atomicdesign.bradfrost.com/images/content/atomic-design-process.png" alt="Atomic Design Methodology" class="img_ev3q"></full-image>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[웅덩이 파는 데 포크레인 써보기]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/create-personal-website-with-docusaurus</id>
-        <link href="https://your-docusaurus-test-site.com/blog/create-personal-website-with-docusaurus"/>
+        <id>https://winter-blanket.github.io/blog/create-personal-website-with-docusaurus</id>
+        <link href="https://winter-blanket.github.io/blog/create-personal-website-with-docusaurus"/>
         <updated>2023-06-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus로 개인 홈페이지 만들기의 A to Z]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="docusaurus로-개인-홈페이지-만들기">Docusaurus로 개인 홈페이지 만들기<a href="#docusaurus로-개인-홈페이지-만들기" class="hash-link" aria-label="Docusaurus로 개인 홈페이지 만들기에 대한 직접 링크" title="Docusaurus로 개인 홈페이지 만들기에 대한 직접 링크">​</a></h2><p>블로그를 겸하는 개인 홈페이지를 만들고 싶다는 생각을 꽤 오래전부터 해왔다. 시도했던 적도 많고 다양한 툴을 사용했다. 만드는 게 어려워서 포기한 적도 있고, 블로그라고 할 만큼 꾸준히 글 쓰는 걸 실패해서 포기한 적도 많았다. 워드프레스, 노션, Docusaurus 등 다양한 도구를 써봤는데 Docusaurus는 그 중 단연 난이도가 높았던 방식이다. React에 대한 이해가 필요하고 당연히 기초적인 프로그래밍이 가능해야 한다. 다만 프로그래밍 난이도가 높다는 건 당연히 그만큼 자유도가 높다는 뜻이기 때문에 가장 끌렸던 방식이기도 했다. </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="개인-홈페이지를-만드는-다양한-도구들">개인 홈페이지를 만드는 다양한 도구들<a href="#개인-홈페이지를-만드는-다양한-도구들" class="hash-link" aria-label="개인 홈페이지를 만드는 다양한 도구들에 대한 직접 링크" title="개인 홈페이지를 만드는 다양한 도구들에 대한 직접 링크">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="워드프레스">워드프레스<a href="#워드프레스" class="hash-link" aria-label="워드프레스에 대한 직접 링크" title="워드프레스에 대한 직접 링크">​</a></h3><p><full-image><img loading="lazy" alt="워드프레스 홈페이지 메인 화면" src="/assets/images/homepage_wordpress-a08b2c43582af114cbf200149918c835.png" width="3358" height="1592" class="img_ev3q"></full-image>
