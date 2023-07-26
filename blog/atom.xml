@@ -43,6 +43,19 @@
         <category label="Github Pages" term="Github Pages"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[구글 서치 콘솔 등록하고 사용자 인사이트 얻기]]></title>
+        <id>https://winter-blanket.github.io/blog/collect-user-insight</id>
+        <link href="https://winter-blanket.github.io/blog/collect-user-insight"/>
+        <updated>2023-07-25T00:00:00.000Z</updated>
+        <category label="Docusaurus로 개인 홈페이지 만들기 (7)" term="Docusaurus로 개인 홈페이지 만들기 (7)"/>
+        <category label="프로그래밍 공부 기록" term="프로그래밍 공부 기록"/>
+        <category label="Figma" term="Figma"/>
+        <category label="Design System" term="Design System"/>
+        <category label="React" term="React"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="Github Pages" term="Github Pages"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Swizzle로 디자인 커스터마이징하기]]></title>
         <id>https://winter-blanket.github.io/blog/customize-style-of-docusaurus</id>
         <link href="https://winter-blanket.github.io/blog/customize-style-of-docusaurus"/>
