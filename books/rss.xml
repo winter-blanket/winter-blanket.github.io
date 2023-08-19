@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>겨울이불의 아카이브 Blog</title>
+        <link>https://winter-blanket.github.io/books</link>
+        <description>겨울이불의 아카이브 Blog</description>
+        <lastBuildDate>Tue, 01 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ko</language>
+        <item>
+            <title><![CDATA[불렛 저널]]></title>
+            <link>https://winter-blanket.github.io/books/bullet-journal</link>
+            <guid>https://winter-blanket.github.io/books/bullet-journal</guid>
+            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[불렛 저널 책 표지 사진]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="불렛 저널 책 표지 사진" src="/assets/images/bullet-journal-e9fa3ea96bf1d6c20662160ac0024bbf.jpeg" width="458" height="647" class="img_ev3q"></p><p>솰라솰라</p>]]></content:encoded>
+            <category>라이더 캐롤</category>
+            <category>한빛비즈</category>
+        </item>
+        <item>
+            <title><![CDATA[Cold Start Problem]]></title>
+            <link>https://winter-blanket.github.io/books/cold-start-prolbem</link>
+            <guid>https://winter-blanket.github.io/books/cold-start-prolbem</guid>
+            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[불렛 저널 책 표지 사진]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="불렛 저널 책 표지 사진" src="/assets/images/cold-start-problem-c4c23c08203c7f5bfdd24f4b055c24a2.jpeg" width="662" height="1000" class="img_ev3q"></p><p>솰라솰라</p>]]></content:encoded>
+            <category>Andrew Chen</category>
+            <category>Random House Business Books</category>
+        </item>
+    </channel>
+</rss>

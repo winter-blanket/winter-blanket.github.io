@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwinterblanket_archive=self.webpackChunkwinterblanket_archive||[]).push([[9722],{8052:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"books"}')}}]);
