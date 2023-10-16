@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwinterblanket_archive=self.webpackChunkwinterblanket_archive||[]).push([[5333],{2445:e=>{e.exports=JSON.parse('{"label":"Design System","permalink":"/tags/design-system","allTagsPath":"/tags","count":8}')}}]);
