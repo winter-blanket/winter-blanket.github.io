@@ -8,16 +8,6 @@
     <subtitle>겨울이불의 아카이브 Blog</subtitle>
     <icon>https://winter-blanket.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[불렛 저널]]></title>
-        <id>https://winter-blanket.github.io/books/bullet-journal</id>
-        <link href="https://winter-blanket.github.io/books/bullet-journal"/>
-        <updated>2023-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[불렛 저널 책 표지 사진]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="불렛 저널 책 표지 사진" src="/assets/images/bullet-journal-e9fa3ea96bf1d6c20662160ac0024bbf.jpeg" width="458" height="647" class="img_ev3q"></p><p>솰라솰라</p>]]></content>
-        <category label="라이더 캐롤" term="라이더 캐롤"/>
-        <category label="한빛비즈" term="한빛비즈"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cold Start Problem]]></title>
         <id>https://winter-blanket.github.io/books/cold-start-prolbem</id>
         <link href="https://winter-blanket.github.io/books/cold-start-prolbem"/>
@@ -26,5 +16,15 @@
         <content type="html"><![CDATA[<p><img loading="lazy" alt="불렛 저널 책 표지 사진" src="/assets/images/cold-start-problem-c4c23c08203c7f5bfdd24f4b055c24a2.jpeg" width="662" height="1000" class="img_ev3q"></p><p>솰라솰라</p>]]></content>
         <category label="Andrew Chen" term="Andrew Chen"/>
         <category label="Random House Business Books" term="Random House Business Books"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불렛 저널]]></title>
+        <id>https://winter-blanket.github.io/books/bullet-journal</id>
+        <link href="https://winter-blanket.github.io/books/bullet-journal"/>
+        <updated>2023-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[불렛 저널 책 표지 사진]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="불렛 저널 책 표지 사진" src="/assets/images/bullet-journal-e9fa3ea96bf1d6c20662160ac0024bbf.jpeg" width="458" height="647" class="img_ev3q"></p><p>솰라솰라</p>]]></content>
+        <category label="라이더 캐롤" term="라이더 캐롤"/>
+        <category label="한빛비즈" term="한빛비즈"/>
     </entry>
 </feed>
