@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwinterblanket_archive=self.webpackChunkwinterblanket_archive||[]).push([[6856],{4706:e=>{e.exports=JSON.parse('{"label":"Andrew Chen","permalink":"/books/tags/andrew-chen","allTagsPath":"/books/tags","count":1}')}}]);

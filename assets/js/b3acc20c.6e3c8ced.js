@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfolder=self.webpackChunkfolder||[]).push([[7262],{5753:e=>{e.exports=JSON.parse('{"label":"\uc790\uc720\uc5ec\ud589","permalink":"/tags/\uc790\uc720\uc5ec\ud589","allTagsPath":"/tags","count":2,"unlisted":false}')}}]);

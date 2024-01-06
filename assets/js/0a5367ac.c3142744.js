@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwinterblanket_archive=self.webpackChunkwinterblanket_archive||[]).push([[7027],{1344:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);

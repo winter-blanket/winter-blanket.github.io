@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwinterblanket_archive=self.webpackChunkwinterblanket_archive||[]).push([[4900],{4950:a=>{a.exports=JSON.parse('{"label":"Figma","permalink":"/tags/figma","allTagsPath":"/tags","count":8}')}}]);

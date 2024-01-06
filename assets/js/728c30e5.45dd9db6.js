@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwinterblanket_archive=self.webpackChunkwinterblanket_archive||[]).push([[2677],{2446:a=>{a.exports=JSON.parse('{"label":"Docusaurus","permalink":"/tags/docusaurus","allTagsPath":"/tags","count":8}')}}]);

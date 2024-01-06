@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfolder=self.webpackChunkfolder||[]).push([[6322],{346:e=>{e.exports=JSON.parse('{"label":"\ubc34\ucfe0\ubc84 \uc5ec\ud589","permalink":"/tags/\ubc34\ucfe0\ubc84-\uc5ec\ud589","allTagsPath":"/tags","count":2,"unlisted":false}')}}]);

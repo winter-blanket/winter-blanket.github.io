@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwinterblanket_archive=self.webpackChunkwinterblanket_archive||[]).push([[6447],{9174:e=>{e.exports=JSON.parse('{"label":"React","permalink":"/tags/react","allTagsPath":"/tags","count":8}')}}]);

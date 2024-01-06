@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfolder=self.webpackChunkfolder||[]).push([[4900],{4950:a=>{a.exports=JSON.parse('{"label":"Figma","permalink":"/tags/figma","allTagsPath":"/tags","count":8,"unlisted":false}')}}]);

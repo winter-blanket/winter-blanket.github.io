@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfolder=self.webpackChunkfolder||[]).push([[1551],{8818:e=>{e.exports=JSON.parse('{"label":"\ube45\ud1a0\ub9ac\uc544 \uc12c \uc5ec\ud589","permalink":"/tags/\ube45\ud1a0\ub9ac\uc544-\uc12c-\uc5ec\ud589","allTagsPath":"/tags","count":2,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfolder=self.webpackChunkfolder||[]).push([[6447],{9174:e=>{e.exports=JSON.parse('{"label":"React","permalink":"/tags/react","allTagsPath":"/tags","count":8,"unlisted":false}')}}]);

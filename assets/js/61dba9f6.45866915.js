@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwinterblanket_archive=self.webpackChunkwinterblanket_archive||[]).push([[766],{3492:e=>{e.exports=JSON.parse('{"label":"\ud55c\ube5b\ube44\uc988","permalink":"/books/tags/\ud55c\ube5b\ube44\uc988","allTagsPath":"/books/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwinterblanket_archive=self.webpackChunkwinterblanket_archive||[]).push([[927],{2291:e=>{e.exports=JSON.parse('{"label":"Github Pages","permalink":"/tags/github-pages","allTagsPath":"/tags","count":8}')}}]);
